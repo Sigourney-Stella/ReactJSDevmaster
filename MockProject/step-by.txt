@@ -1,0 +1,13 @@
+Bước 1: Tải dự án HTML
+Bước 2: tạo mới mini-project-1
+Bước 3: chuyển dữ liệu từ file html sang đuôi jsx
+    + vào trang để chuyển đổi sang file jsx
+    + copy nội dụng chuyển đổi vào App.jsx
+    + chuyển các file css,js sang dự án ReactJS
+    + import css, js vào dự án
+Bước 4: Xác định các components
+    + Title
+    + ListStudents
+        - Students
+    + Form
+Bước 5: Tạo các components 
